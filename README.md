@@ -4,8 +4,13 @@ A Persona 5 inspired home screen for Android TV, in plain Java with custom Canva
 [tv-vibehack](https://github.com/Gathin23/tv-vibehack) launcher (MIT, by Gathin), which keeps its original Apple TV look as an option.
 
 Everything is drawn in code: red/black/white angular shapes, a jagged red selection shard, ransom-note lettering,
-halftone dots, a diagonal wipe on return to Home, and a calling-card screensaver. No game art, logos or rips are included.
+halftone dots, a diagonal wipe on return to Home, and a calling-card screensaver. The code ships no game art, logos or rips. The screenshots show a Persona 5 wallpaper that the owner supplied on their own TV; the wallpaper file itself is not in this repo.
 Built and tuned on a 1080p TCL 43Q6 (Android TV 11, 2 GB RAM): about 8 ms median frame time, D-pad only.
+
+![Home: dock as the pause menu](docs/home-dock.png)
+![App grid](docs/home-grid.png)
+![Inputs menu](docs/inputs-menu.png)
+![Calling-card screensaver](docs/screensaver.png)
 
 | Screen | Persona 5 equivalent |
 |---|---|
